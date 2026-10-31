@@ -16,3 +16,6 @@ dist/
 SpaceStation/build-release/
 # configuração local do preview do Claude (caminhos da máquina)
 .claude/
+
+# scripts/k1-firmware-probe.py output
+fw-k1/
